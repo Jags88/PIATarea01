@@ -9,7 +9,6 @@ Este proyecto tiene como objetivo realizar una solución para la Tarea de la Uni
 
 ## Instalación
 1. Clona el repositorio: `git clone https://github.com/Jags88/PIATarea01.git`
-2. Instala las dependencias: `npm install`
 
 ## Uso
 Para utilizar este proyecto, sigue estos pasos:
